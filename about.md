@@ -11,8 +11,9 @@ Noco Store is a game development team started in 2017
 ### Dev.to: 
 [https://dev.to/nocostore](https://dev.to/nocostore)
 
-### Medium: 
-coming soon
+### Forum:
+[https://nocostore.flarum.cloud](https://nocostore.flarum.cloud)
 
-### Forum: 
-Old Archive: [https://nocostore.boards.net](https://nocostore.boards.net/)
+### Archives: 
+Old Forum: [https://nocostore.boards.net](https://nocostore.boards.net/)
+Old Blog: [https://nocostoreblog.blogspot.com/](https://nocostoreblog.blogspot.com/)
