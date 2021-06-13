@@ -9,10 +9,10 @@ Noco Store is a game development team started in 2017
 # Links
 
 ### Dev.to: 
-coming soon
+https://dev.to/nocostore
 
 ### Medium: 
 coming soon
 
 ### Forum: 
-Old: http://nocostore.boards.net/
+Old: https://nocostore.boards.net/
