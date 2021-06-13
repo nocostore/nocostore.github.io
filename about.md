@@ -8,11 +8,11 @@ Noco Store is a game developement team started in 2017
 
 # Links
 
-### dev.to: 
+### Dev.to: 
 coming soon
 
-### medium: 
+### Medium: 
 coming soon
 
-### forum: 
-http://nocostore.boards.net/
+### Forum: 
+Old: http://nocostore.boards.net/
