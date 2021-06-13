@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Noco Store is a game developement team started in 2017
+Noco Store is a game development team started in 2017
 
 # Links
 
