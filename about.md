@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Noco Store is a game developement team started in 2017
 
-### More Information
+### Links
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+dev.to: coming soon
+medium: coming soon
+forum: http://nocostore.boards.net/
